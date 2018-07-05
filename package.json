@@ -1,0 +1,14 @@
+{
+  "name": "textarea",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matthew Hamlin <hamlim@outlook.com> (https://matthamlin.me/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "9.1.2"
+  },
+  "scripts": {
+    "start": "serve ./"
+  }
+}
